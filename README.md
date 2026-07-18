@@ -121,7 +121,7 @@ Linear Regression model (R² = 0.72–0.75) deployed as an interactive Streamlit
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrVaishnaviKR&theme=tokyonight" alt="GitHub Streak" />
 </p>
----
+
 
 ## 🎓 Education & Certifications
 

@@ -1,19 +1,14 @@
 <!-- ============================================= -->
 <!--            HEADER / BANNER                    -->
 <!-- ============================================= -->
-
+ 
 <h1 align="center">Hi, I'm Dr. Vaishnavi K R 👋</h1>
-
+ 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F9E8B&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Healthcare+Analytics+Specialist;Full-Stack+Data+Product+Builder;Doctor+who+ships+data-driven+solutions" alt="Typing SVG" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DrVaishnaviKR&label=Profile%20views&color=2f9e8b&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ## 🩺 About Me
@@ -127,10 +122,10 @@ Linear Regression model (R² = 0.72–0.75) deployed as an interactive Streamlit
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DrVaishnaviKR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Vaishnavi's GitHub stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrVaishnaviKR&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrVaishnaviKR&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 ---
 

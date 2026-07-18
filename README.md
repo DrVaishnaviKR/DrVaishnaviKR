@@ -115,18 +115,12 @@ Linear Regression model (R² = 0.72–0.75) deployed as an interactive Streamlit
 `Python` `Machine Learning` `Streamlit`
 
 ---
-
+ 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DrVaishnaviKR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Vaishnavi's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrVaishnaviKR&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+ 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrVaishnaviKR&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
-
 ---
 
 ## 🎓 Education & Certifications

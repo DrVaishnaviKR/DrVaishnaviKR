@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F9E8B&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Healthcare+Analytics+Specialist;Full-Stack+Data+Product+Builder;Doctor+who+ships+data-driven+solutions" alt="Typing SVG" />
   </a>
 </p>
----
+
 
 ## 🩺 About Me
 

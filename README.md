@@ -145,7 +145,7 @@ Linear Regression model (R² = 0.72–0.75) deployed as an interactive Streamlit
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vaishnavi-k-r">
+  <a href="www.linkedin.com/in/dr-vaishnavi-k-r-577947314">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:vaishnavirajeshshyni@gmail.com">
